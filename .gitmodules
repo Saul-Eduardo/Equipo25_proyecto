@@ -1,0 +1,3 @@
+[submodule "Proyecto01/space-invaders-e25"]
+	path = Proyecto01/space-invaders-e25
+	url = git@github.com:YaelBadillo/space-invaders-e25.git
