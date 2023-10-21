@@ -3,7 +3,7 @@
 ### Integrantes
 - :office_worker: Saul Guerrero - Manager 
 - :art: David Elias - Artista 
-- :notes: Fernando Palacios - Músico 
+- :notes: Fernando Palacio - Músico 
 - :man_technologist: Yael Badillo - Coder 
 
 
