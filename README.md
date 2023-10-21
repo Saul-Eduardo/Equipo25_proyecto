@@ -1,8 +1,7 @@
-# Equipo25_proyecto
- Este repositorio contiene los proyectos del equipo 25
-
-Este repositorio hace uso de un submódulo. Por esa razón, asegurate de clonarlo de forma correcta usando el siguiente comando:
-
-```
-git clone --recursive <url del proyecto>
-```
+Integrantes
+🧑‍💼 Saul Guerrero - Manager
+🎨 David Elias - Artista
+🎶 Fernando Palacios - Músico
+👨‍💻 Yael Badillo - Coder
+📁 Documentación
+Para ver la documentación abrir el archivo Docs/index.html en la carpeta Proyecto01/space-invaders-e25 @ c192f0c.
