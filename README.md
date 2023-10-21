@@ -6,4 +6,5 @@
 - :notes: Fernando Palacio - Músico 
 - :man_technologist: Yael Badillo - Coder 
 
-
+#### :file_folder: Documentación 
+Para ver la documentación abrir el archivo <b>Docs/index.html</b>.
