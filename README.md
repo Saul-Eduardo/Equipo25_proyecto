@@ -26,8 +26,3 @@ El principal objetivo de Bugs Invaders es desarrollar un juego entretenido y des
 
 Bugs Invaders es un juego arcade de disparos en 2D en el que el jugador asume el papel de un pequeño insecto, que siguiendo las mecánicas del Space Invaders original, se encuentra en la parte inferior de la pantalla y puede moverse horizontalmente de izquierda a derecha. El objetivo principal del juego es subir el árbol lo más alto posible y derrotar a la mayor cantidad de miembros del ejército de insectos tecnológicos que habitan el árbol, esto para poder comer una manzana que se encuentra en la cima, sin embargo, el árbol es demasiado grande y lo habitan demasiados insectos, por lo que será una tarea difícil llegando a imposible para nuestro protagonista.
 
-Además, adjuntar al menos cinco imágenes que muestran el proceso de trabajo, junto con su correspondiente descripción del proyecto.
-
-## **Conclusión:** 
-
-Para finalizar, cada miembro del equipo presentará una conclusión que resumirá los logros y aprendizajes obtenidos durante el desarrollo de este proyecto.
