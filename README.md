@@ -6,6 +6,12 @@
 - :notes: Fernando Palacio - Músico 
 - :man_technologist: Yael Badillo - Coder 
 
+#### Clonar el repositorio
+Para clonar correctamente el repositorio usa el siguiente comando:
+```bash
+git clone --recurse-submodules 
+```
+
 #### :file_folder: Documentación 
 Para ver la documentación abrir el archivo <b>Documentacion/Docs/html/index.html</b>.
 
